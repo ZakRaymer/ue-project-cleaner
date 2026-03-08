@@ -84,5 +84,5 @@ MIT
 
 ## Author
 
-**Zachary Raymer**  
+**Zak Raymer**  
 https://revivedzeal.com
